@@ -229,8 +229,3 @@ POST   /api/products/seed      # Seed sample products (admin)
 4. Push to the branch
 5. Create a Pull Request
 
-## License
-This project is licensed under the MIT License.
-
-## Support
-For support, email support@freshdel.com or create an issue in the repository.
