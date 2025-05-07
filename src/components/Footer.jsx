@@ -8,7 +8,7 @@ const Footer = () => {
 
         <div>
             <Link to="/" className="font-display text-2xl text-primary">
-                FreshDel
+                FarmFlow
             </Link>
             <p className='w-full md:w-2/3 text-gray-600'>
             Fresh Vegetables & Fruits Delivered to Your Door
